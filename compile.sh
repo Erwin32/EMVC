@@ -2,3 +2,4 @@
 . config.sh
 
 coffee --join "bin/${ProjectName}.js" --compile app/*.coffee
+echo "compilation complete"
