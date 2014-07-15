@@ -1,2 +1,0 @@
-#!/bin/sh
-ProjectName=Default
